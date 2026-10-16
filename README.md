@@ -1,1 +1,1 @@
-first JS homweork
+first JS homework
